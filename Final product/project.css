@@ -1,0 +1,308 @@
+body {margin: 0%;
+    .padding: 2%;
+    .front-family: sans-serif;
+}
+div {
+    background-color: lightblue;
+    /* width: 93%; */
+    */ margin: 32%;
+    /* margin-top: auto; */
+    margin-right: auto;
+    margin-bottom: initial;
+    margin-left: revert;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-lef-width: 2px;
+}
+.pic{
+
+    
+width:42px;
+height:42px;
+
+}
+
+body {
+    background-color: lightblue;
+    background: coverd;
+    
+    background size: cover;
+    background-position: center center;
+    position: relative;
+}
+.nav-area {
+    float: right;
+    list-style: upper-roman;
+    margin-top: 16px
+;
+    margin-left: initial;
+}
+.nav-area li{
+
+display: inline-block;
+
+}
+.nav-area li a {
+    color: red;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 14 px;
+}
+.nav-area li a {
+    color: yellow;
+    text-transform: uppercase;
+    
+}
+.nav-area  ul li  {
+    content: "";
+    height: 3px;
+    width: 0;
+    position: absolute;
+    bottom: -10px;
+    transition: 0,5s;
+}
+.logo img {
+    width: 153px;
+    float: left;
+    /* padding-left: 5%; */
+    /* padding-right: 10%; */
+    */: ;
+    filter: invert(5%);
+    size: 41px;
+}
+.auto {
+    background-color: firebrick;
+    /* margin: 54px
+; */
+    height: 153px;
+    color: white;
+    text-align: center;
+    float: inherit;
+}
+ h2 {
+    display: -webkit-inline-box;
+    font-size: em;
+    margin-block-start: 0.67em;
+    margin-block-end: 15.67em;
+    margin-inline-start: -111px;
+    /* margin-inline-end: 27
+px
+; */
+    font-family: League Gothic;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    color: black;
+    font-style: oblique;
+    text-align: -webkit-center
+}
+body {
+    background-color: lightblue;
+    background: coverd;
+    padding: 85px;
+
+
+}
+.car img {
+    width: 300px;
+    float: left;
+     padding-left: 5%; */
+    padding-right: 10%; */
+    filter: invert(5%);
+    size: 41px;
+}
+table {
+    border-spacing: 37px;
+}
+
+div
+.section2 {
+    display: lightblue;
+    background-color: ;
+    color: black;
+    text-align: right;
+    background-color: red;
+     text-align: center;
+ 
+}
+
+h1 {
+    display: -webkit-inline-box;
+    font-size: em;
+    margin-block-start: 0.67em;
+    margin-block-end: 15.67em;
+    /* margin-inline-start: -111px; */
+    margin-inline-end: 27px;
+    font-family: League Gothic;
+    font-weight: bold;
+
+    color: black;
+    font-style: oblique;
+        text-align: -webkit-center;
+
+}
+
+div {
+    
+    color: black;
+   
+}
+
+a {
+color: black;
+    
+    text-align: left;
+    
+}
+
+
+
+td{
+
+    font-weight: bold;
+    color: black;
+    
+    border: 1px solid #333;
+        border: 1px solid #333;
+        height: 30;
+        padding: 10px;
+    margin: 10px;
+    width: 35%;
+  height: 50%;
+
+}
+
+th,td{
+
+    text-align: left;
+
+    border: 1px solid #f1f1f1;
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 10px;
+    width: 35%;
+    
+}
+.list{
+        margin: 10px;
+    color: black;
+    text-align: center;
+    text-align: initial;
+    list-style-type: disclosure-closed;
+     text-align: left;
+
+}
+.heading{
+        display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: -webkit-center;
+}
+
+.social {
+            
+            flex-direction: column;
+            align-items: center;
+            width: 500px;
+            height: 300px;
+            margin: 15vh auto;
+            padding: 15px;
+            border-radius: 15px;
+            border: none;
+            box-shadow: 0 0 15px rgb(180, 51, 73);
+           background-color: white; */
+        }
+        
+        .form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 90%;
+        }
+    
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.column {
+  float: left;
+  width: 90%;
+  padding: 150px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+image{
+   width: 100px;
+    height: 100px; 
+}
+.column {
+  float: left;
+  width: 90%;
+  padding: 150px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+th{
+    font-size: 2em;
+}
+text-align: center;
+
+}

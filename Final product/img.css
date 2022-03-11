@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    background: coverd;
+    
+    background size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    * padding-left: 5%; */
+     padding-right: 10%; */
+}
+th{
+    font-size: 1em;
+}
+text-align: center;
+
+}
